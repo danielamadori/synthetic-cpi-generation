@@ -33,17 +33,14 @@ To start the application using Python, follow these steps:
     ```bash
     python3.12 -m venv cpi_env
     source cpi_env/bin/activate  # On macOS/Linux
-    paco_env\Scripts\activate     # On Windows
+    cpi_env\Scripts\activate     # On Windows
     ```
 
 2. **Install required dependencies**
     ```bash
     pip install -r requirements.txt
-    pip install notebook
     ```
    
----
-
 3. **Running the `main.ipynb` Notebook**
    To start the `main.ipynb` notebook directly, use the following command:
     ```bash
