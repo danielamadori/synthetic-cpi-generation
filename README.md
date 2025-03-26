@@ -49,3 +49,6 @@ To start the application using Python, follow these steps:
     Open a browser and go to `http://127.0.0.1:8888` to access the Jupyter environment and run the `main.ipynb` notebook.
 
 ---
+
+## Output
+The generated bundle will be saved in the `CPIs` folder.
