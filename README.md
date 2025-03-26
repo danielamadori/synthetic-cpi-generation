@@ -10,6 +10,8 @@ This repository contains code and resources for generating synthetic data.
 
 More details at [main.ipynb](https://nbviewer.org/github/danielamadori98/synthetic-cpi-generation/blob/main/main.ipynb)
 
+### Note
+The repository is self contained as source processes from the `generated_processes` folder are included, however these can be generated with custom preferences as explained in the GitHub repository: [PietroSala/process-impact-benchmarks](https://nbviewer.org/github/PietroSala/process-impact-benchmarks/blob/main/main.ipynb)
 
 ## Prerequisites
 
