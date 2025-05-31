@@ -1,14 +1,14 @@
 # Synthetic CPI generation
 ![Python Version](https://img.shields.io/badge/python-3.12%2B-blue)
-![GitHub issues](https://img.shields.io/github/issues/danielamadori98/synthetic-cpi-generation)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/danielamadori98/synthetic-cpi-generation)
-![GitHub contributors](https://img.shields.io/github/contributors/danielamadori98/synthetic-cpi-generation)
+![GitHub issues](https://img.shields.io/github/issues/danielamadori/synthetic-cpi-generation)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/danielamadori/synthetic-cpi-generation)
+![GitHub contributors](https://img.shields.io/github/contributors/danielamadori/synthetic-cpi-generation)
 
 
 ## Description
 This repository contains code and resources for generating synthetic data.
 
-More details at [main.ipynb](https://nbviewer.org/github/danielamadori98/synthetic-cpi-generation/blob/main/main.ipynb)
+More details at [main.ipynb](https://nbviewer.org/github/danielamadori/synthetic-cpi-generation/blob/main/main.ipynb)
 
 ### Note
 The repository is self contained as source processes from the `generated_processes` folder are included, however these can be generated with custom preferences as explained in the GitHub repository: [PietroSala/process-impact-benchmarks](https://nbviewer.org/github/PietroSala/process-impact-benchmarks/blob/main/main.ipynb)
